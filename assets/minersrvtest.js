@@ -1,4 +1,4 @@
-                                <script type="text/javascript">
+
                                 window['nitroAds'].createAd('panel-main-ad', {
                                   "refreshLimit": 10,
                                   "refreshTime": 30,
@@ -24,4 +24,4 @@
                                     "position": "top-right"
                                   }
                                 });
-                                </script>
+
