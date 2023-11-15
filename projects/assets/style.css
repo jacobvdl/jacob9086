@@ -9,7 +9,10 @@
     margin: 20px;
     background: black;
     border-radius: 25px;
+    overflow: auto;
+    max-height: 60vh; /* Adjust as needed */
 }
+
 
 #projectbox-dupetable {
     width: 98%;
