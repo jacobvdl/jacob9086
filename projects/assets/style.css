@@ -36,7 +36,7 @@
     background-image: url("https://jacob9086.xyz/projects/assets/thumbnails/minerserver.png");
 }
 
-#projectbox-bettertickets {
+#projectbox-boombox {
     width: 98%;
     height: 100px;
     background: darkslategrey;
@@ -44,7 +44,7 @@
     background-repeat: no-repeat;
     background-size: adaptive;
     background-position: center;
-    background-image: url("https://jacob9086.xyz/projects/assets/thumbnails/bettertickets.png");
+    background-image: url("https://jacob9086.xyz/projects/assets/thumbnails/boombox.png");
 }
 
 .fa {
